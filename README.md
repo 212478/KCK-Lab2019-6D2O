@@ -1,5 +1,7 @@
-Projekt zaliczeniowy z laboratorium z przedmiotu Komunikacja Człowiek-Komputer
+﻿
 
-Badowski Patryk
+Laboratorium KCK 2019 6D2O pliki źródłowe
 
-Numer Indeksu 212298
+Krawczyk Filip
+
+Numer Indeksu 212478
